@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     siteName: 'Josué Alberto Portfolio',
     images: [
       {
-        url: '/profile.jpg',
+        url: 'https://josue-alberto-portfolio.vercel.app/profile.jpg',
         width: 1200,
         height: 630,
         alt: 'Josué Alberto - Desenvolvedor Web',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Josué Alberto | Desenvolvedor Web',
     description: 'Portfólio de Josué Alberto - Desenvolvedor Web especializado em criar experiências digitais únicas e modernas.',
-    images: ['/profile.jpg'],
+    images: ['https://josue-alberto-portfolio.vercel.app/profile.jpg'],
   },
   icons: {
     icon: [
