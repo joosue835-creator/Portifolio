@@ -7,9 +7,32 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'http://localhost:3000'),
   title: 'Josué Alberto | Desenvolvedor Web',
   description: 'Portfólio de Josué Alberto - Desenvolvedor Web especializado em criar experiências digitais únicas e modernas.',
   generator: 'v0.app',
+  openGraph: {
+    type: 'website',
+    locale: 'pt_BR',
+    url: '/',
+    title: 'Josué Alberto | Desenvolvedor Web',
+    description: 'Portfólio de Josué Alberto - Desenvolvedor Web especializado em criar experiências digitais únicas e modernas.',
+    siteName: 'Josué Alberto Portfolio',
+    images: [
+      {
+        url: '/profile.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Josué Alberto - Desenvolvedor Web',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Josué Alberto | Desenvolvedor Web',
+    description: 'Portfólio de Josué Alberto - Desenvolvedor Web especializado em criar experiências digitais únicas e modernas.',
+    images: ['/profile.jpg'],
+  },
   icons: {
     icon: [
       {
