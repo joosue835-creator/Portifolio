@@ -20,10 +20,10 @@ const projects = [
     link: "https://barbershop-premium-mu.vercel.app",
   },
   {
-    title: "Geracao-pet-shop",
-    description: "A Geração Pet Shop atua em Catalão-GO com serviços de banho e tosa, estética animal, acessórios em geral e táxi dog. Cuidamos do seu melhor amigo com muito amor.",
-    image: "https://i.postimg.cc/jSsLqGwB/Captura-de-tela-2026-04-21-064542.png",
-    link: "https://geracao-pet-shop.vercel.app",
+    title: "elite-advocacia",
+    description: "Excelência Jurídica & Estratégia\nDefesa estratégica para decisões que não podem falhar.",
+    image: "https://i.postimg.cc/HdNMnYsN/Captura-de-tela-2026-04-21-064542.png",
+    link: "https://elite-advocacia.vercel.app",
   },
   {
     title: "Clinica-24h-catalao",
