@@ -14,10 +14,10 @@ const projects = [
     link: "https://rede-pop-pet-shop-catalao.vercel.app",
   },
   {
-    title: "Patas-pet-care",
-    description: "Atendimento personalizado com foco no bem-estar animal e orientação completa aos tutores.",
-    image: "https://i.postimg.cc/597zr9X5/Captura-de-tela-2026-04-21-064216.png",
-    link: "https://patas-pet-care-3na7.vercel.app",
+    title: "barbershop-premium",
+    description: "PRECISÃO, ESTILO E TRADIÇÃO\nExperiência premium em barbearia masculina. Cada corte é uma obra de arte, cada cliente é exclusivo.",
+    image: "https://i.postimg.cc/59v3gX02/Captura-de-tela-2026-04-21-063812.png",
+    link: "https://barbershop-premium-mu.vercel.app",
   },
   {
     title: "Geracao-pet-shop",
