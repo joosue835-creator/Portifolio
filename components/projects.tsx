@@ -2,31 +2,31 @@ import { ProjectCard } from "./project-card"
 
 const projects = [
   {
-    title: "Vittapet (Pet Shop)",
-    description: "Site completo para Pet Shop com agendamento e lista de serviços.",
-    image: "https://i.postimg.cc/Gprqq3f3/Captura-de-tela-2026-04-21-064320.png",
-    link: "https://vittapet-website.vercel.app",
+    title: "Carina-essencia-beleza",
+    description: "stúdio de beleza especializado em mega hair, mechas, alisamentos e tratamentos capilares em Lajeado, RS. Transformamos seu visual com técnicas exclusivas de Carina especialista em mega hair e mechas..",
+    image: "https://i.postimg.cc/prncPyVr/Captura-de-tela-2026-04-21-065911.png",
+    link: "https://carina-essencia-beleza.vercel.app",
   },
   {
-    title: "Rede Pop Pet Shop Catalão",
+    title: "Rede-pop-pet-shop-catalao",
     description: "Higiene completa e saúde em dia para seu pet com a segurança de um atendimento técnico e humanizado.",
     image: "https://i.postimg.cc/cHCjB4KF/Captura-de-tela-2026-04-21-063503.png",
     link: "https://rede-pop-pet-shop-catalao.vercel.app",
   },
   {
-    title: "Patas Pet Care",
+    title: "Patas-pet-care",
     description: "Atendimento personalizado com foco no bem-estar animal e orientação completa aos tutores.",
     image: "https://i.postimg.cc/597zr9X5/Captura-de-tela-2026-04-21-064216.png",
     link: "https://patas-pet-care-3na7.vercel.app",
   },
   {
-    title: "Geração Pet Shop",
+    title: "Geracao-pet-shop",
     description: "A Geração Pet Shop atua em Catalão-GO com serviços de banho e tosa, estética animal, acessórios em geral e táxi dog. Cuidamos do seu melhor amigo com muito amor.",
     image: "https://i.postimg.cc/jSsLqGwB/Captura-de-tela-2026-04-21-064542.png",
     link: "https://geracao-pet-shop.vercel.app",
   },
   {
-    title: "Clínica 24h Catalão",
+    title: "Clinica-24h-catalao",
     description: "Cuidado e dedicação para proteger seu melhor amigo.",
     image: "https://i.postimg.cc/V6TCdDQj/Captura-de-tela-2026-04-21-063812.png",
     link: "https://clinica-24h-catalao.vercel.app",
