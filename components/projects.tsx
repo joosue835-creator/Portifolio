@@ -8,10 +8,10 @@ const projects = [
     link: "https://carina-essencia-beleza.vercel.app",
   },
   {
-    title: "Rede-pop-pet-shop-catalao",
-    description: "Higiene completa e saúde em dia para seu pet com a segurança de um atendimento técnico e humanizado.",
-    image: "https://i.postimg.cc/cHCjB4KF/Captura-de-tela-2026-04-21-063503.png",
-    link: "https://rede-pop-pet-shop-catalao.vercel.app",
+    title: "decarli-petshop",
+    description: "Cuidado completo e humanizado para quem é parte da sua família\nDo banho e tosa ao atendimento hospitalar 24h, seu pet recebe o melhor em um só lugar.",
+    image: "https://i.postimg.cc/FzqD35pN/Captura-de-tela-2026-04-28-101638.png",
+    link: "https://decarli-petshop.vercel.app",
   },
   {
     title: "barbershop-premium",
