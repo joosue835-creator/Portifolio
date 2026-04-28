@@ -26,16 +26,16 @@ const projects = [
     link: "https://elite-advocacia.vercel.app",
   },
   {
-    title: "Clinica-24h-catalao",
-    description: "Cuidado e dedicação para proteger seu melhor amigo.",
-    image: "https://i.postimg.cc/V6TCdDQj/Captura-de-tela-2026-04-21-063812.png",
-    link: "https://clinica-24h-catalao.vercel.app",
+    title: "Precisionauto---centro-automotivo",
+    description: "SEU CARRO NO ÁPICE DA PERFORMANCE\nMecânica especializada, alinhamento 3D e tecnologia avançada para quem não aceita menos que a perfeição técnica.",
+    image: "https://i.postimg.cc/cxDRcQ0H/Captura-de-tela-2026-04-27-203817.png",
+    link: "https://precisionauto-premium.vercel.app",
   },
   {
-    title: "Bigodinhos Petshop",
-    description: "Cuidado, carinho e bem-estar para o seu pet 🐾",
-    image: "https://i.postimg.cc/sfYSJFW5/Captura-de-tela-2026-04-21-065911.png",
-    link: "https://bigodinhos-conex-o-pet.vercel.app",
+    title: "clinica-vitta-premium",
+    description: "Cuidado profissional com foco na sua saúde real.\nOferecemos atendimento médico de alta precisão com infraestrutura moderna, unindo ciência e humanização para sua total segurança.",
+    image: "https://i.postimg.cc/gzZpyP9Y/Captura-de-tela-2026-04-27-213415.png",
+    link: "https://clinica-vitta-premium.vercel.app",
   },
 ]
 
