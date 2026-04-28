@@ -8,9 +8,9 @@ const projects = [
     link: "https://carina-essencia-beleza.vercel.app",
   },
   {
-    title: "decarli-petshop",
+    title: "decarli-petshop.vercel.app",
     description: "Cuidado completo e humanizado para quem é parte da sua família\nDo banho e tosa ao atendimento hospitalar 24h, seu pet recebe o melhor em um só lugar.",
-    image: "https://i.postimg.cc/FzqD35pN/Captura-de-tela-2026-04-28-101638.png",
+    image: "https://i.postimg.cc/fyFBmnCW/Captura-de-tela-2026-04-28-101719.png",
     link: "https://decarli-petshop.vercel.app",
   },
   {
