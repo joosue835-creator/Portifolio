@@ -37,6 +37,12 @@ const projects = [
     image: "https://i.postimg.cc/gzZpyP9Y/Captura-de-tela-2026-04-27-213415.png",
     link: "https://clinica-vitta-premium.vercel.app",
   },
+  {
+    title: "Novo Projeto",
+    description: "Em breve: Mais um projeto incrível sendo desenvolvido para o portfólio.",
+    image: "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=2070&auto=format&fit=crop",
+    link: "#",
+  },
 ]
 
 export function Projects() {
