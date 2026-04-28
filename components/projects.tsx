@@ -38,10 +38,10 @@ const projects = [
     link: "https://clinica-vitta-premium.vercel.app",
   },
   {
-    title: "Novo Projeto",
-    description: "Em breve: Mais um projeto incrível sendo desenvolvido para o portfólio.",
-    image: "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=2070&auto=format&fit=crop",
-    link: "#",
+    title: "lumière-pâtisserie---confeitaria",
+    description: "Pâtisserie Couture. Criações esculpidas à mão onde a tradição francesa encontra o minimalismo contemporâneo para celebrar seus momentos mais íntimos.",
+    image: "https://i.postimg.cc/7Zb00Dn9/Captura-de-tela-2026-04-28-122644.png",
+    link: "https://lumiere-patisserie-premium.vercel.app",
   },
 ]
 
