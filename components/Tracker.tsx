@@ -4,9 +4,17 @@ import { useEffect } from 'react'
 
 export function Tracker() {
   useEffect(() => {
+    const track = (type: string) => {
+      const url = `https://api.counterapi.dev/v1/josue_portfolio/${type}/up`;
+      if (navigator.sendBeacon) {
+        navigator.sendBeacon(url);
+      } else {
+        fetch(url, { mode: 'no-cors' }).catch(() => {});
+      }
+    };
+
     // Registra a visita na Nuvem Global
-    fetch('https://api.counterapi.dev/v1/josue_portfolio/visits/up', { mode: 'no-cors' })
-      .catch(() => {});
+    track('visits');
     
     // Registra cliques na Nuvem Global
     const handleClick = (e: MouseEvent) => {
@@ -14,8 +22,7 @@ export function Tracker() {
       const link = target.tagName === 'A' ? target : target.closest('a');
       
       if (link) {
-        fetch('https://api.counterapi.dev/v1/josue_portfolio/clicks/up', { mode: 'no-cors' })
-          .catch(() => {});
+        track('clicks');
       }
     };
 
